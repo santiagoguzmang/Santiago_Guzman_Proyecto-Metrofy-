@@ -1,0 +1,726 @@
+[
+    {
+        "identificador": "8beec0b9-cbc9-44b5-9187-9509a04d5dc6",
+        "nombre": "Mercedes Ortega Mayorga",
+        "email": "mercedes.ortegamayorga69@unimet.edu.ve",
+        "nombre_usuario": "Fernando_MerazAlonzo6",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "8a6390a0-eda1-4161-81a1-6576edc72c2b",
+        "nombre": "Pedro Urbina Ortega",
+        "email": "pedro70@unimet.edu.ve",
+        "nombre_usuario": "Soledad.AlmonteRubio48",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "c060b6ea-4418-4521-88c8-e430cf91a0d1",
+        "nombre": "Gabriela ",
+        "email": "gabriela.urenamalave49@unimet.edu.ve",
+        "nombre_usuario": "Patricia.HenriquezRael68",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "f2525fc3-d5e0-472d-920f-6446fd766892",
+        "nombre": "Enrique ",
+        "email": "enrique_prietocarrasco59@unimet.edu.ve",
+        "nombre_usuario": "Magdalena.AnguianoUlloa58",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "18342a8f-cab1-4401-9874-a2c232d006f4",
+        "nombre": "Patricio ",
+        "email": "patricio.salazarlugo69@unimet.edu.ve",
+        "nombre_usuario": "Guillermina.QuintanaLara41",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "605347b1-053e-4c1d-a15c-23f7c9a6319a",
+        "nombre": "Rub\u00e9n ",
+        "email": "ruben_alvaradomadrigal@unimet.edu.ve",
+        "nombre_usuario": "MariaTeresa.HuertaCarmona82",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "5abdd366-6df3-4d51-9f1e-aa4f88e73b66",
+        "nombre": "Mar\u00eda Eugenia ",
+        "email": "mariaeugenia.figueroacanales@unimet.edu.ve",
+        "nombre_usuario": "Francisca_ArandaFierro",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "4185be1e-1219-45da-b0b6-89a337454ad1",
+        "nombre": "Vicente ",
+        "email": "vicente.yanezalicea@unimet.edu.ve",
+        "nombre_usuario": "MariaElena_AbeytaSaldana3",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "ca88c7f9-9585-43e7-80d3-a48a85b856c1",
+        "nombre": "V\u00edctor ",
+        "email": "victor55@unimet.edu.ve",
+        "nombre_usuario": "Silvia.DavilaMarquez",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "27cc7912-e4cd-4705-9f4a-7d39232f2696",
+        "nombre": "Benjam\u00edn ",
+        "email": "benjamin53@unimet.edu.ve",
+        "nombre_usuario": "JorgeLuis.CardenasReyna6",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "c9966532-31f3-43b6-9e68-a2f9c42de335",
+        "nombre": "Lorenzo Colunga Tejada",
+        "email": "lorenzo.colungatejada@unimet.edu.ve",
+        "nombre_usuario": "Patricia.CabreraLeal",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "b1365259-e3d1-4aa9-a167-c1760a1da5f6",
+        "nombre": "Guillermo ",
+        "email": "guillermo_brionessauceda27@unimet.edu.ve",
+        "nombre_usuario": "Javier2",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "b76c4e95-384c-4808-be79-aabf13d1ba7f",
+        "nombre": "Virginia Rold\u00e1n Alvarado",
+        "email": "virginia_roldanalvarado9@unimet.edu.ve",
+        "nombre_usuario": "Mateo22",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "e448f4fa-0bf0-4409-a991-d485fd4de942",
+        "nombre": "Gloria ",
+        "email": "gloria_menamuro@unimet.edu.ve",
+        "nombre_usuario": "AnaMaria.RiveroAlvarado",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "4e851ce1-5227-490c-8a8b-e2415dbc9985",
+        "nombre": "Ignacio Rosario Elizondo",
+        "email": "ignacio65@unimet.edu.ve",
+        "nombre_usuario": "Josefina30",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "afa1078a-ea67-4a78-bdae-2b1adae34e61",
+        "nombre": "Rub\u00e9n Far\u00edas M\u00e9ndez",
+        "email": "ruben71@unimet.edu.ve",
+        "nombre_usuario": "Tomas51",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "c77072e4-48a9-43d4-b024-b30b2143b92a",
+        "nombre": "Pablo Echevarr\u00eda Alvarado",
+        "email": "pablo_echevarriaalvarado@unimet.edu.ve",
+        "nombre_usuario": "Guillermina_EsquibelVillagomez11",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "4197626b-363c-4473-a0af-55fc4d73bc93",
+        "nombre": "Amalia ",
+        "email": "amalia89@unimet.edu.ve",
+        "nombre_usuario": "Estela89",
+        "tipo": "musician",
+        "likes": [
+            "c77072e4-48a9-43d4-b024-b30b2143b92a"
+        ]
+    },
+    {
+        "identificador": "6ee6bfae-8947-4b3b-9eb6-fc41ee68e951",
+        "nombre": "Barbara Ibarra Osorio",
+        "email": "barbara_ibarraosorio@unimet.edu.ve",
+        "nombre_usuario": "Alberto31",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "edda7ec3-ab83-430d-83ab-c7d08c57c535",
+        "nombre": "Sergio ",
+        "email": "sergio.nevarezortega@unimet.edu.ve",
+        "nombre_usuario": "Andrea13",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "3dd9def2-8823-49f4-bd58-320240325e37",
+        "nombre": "Anita Vergara Fierro",
+        "email": "anita.vergarafierro@unimet.edu.ve",
+        "nombre_usuario": "Teodoro.PadillaArriaga17",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "e4962e36-e6f0-413b-81e7-14fbff494e39",
+        "nombre": "Gabriela ",
+        "email": "gabriela11@unimet.edu.ve",
+        "nombre_usuario": "Eduardo.AguirreDominguez",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "6c62ee8b-359c-4a21-acff-4b4fcc061dfc",
+        "nombre": "Carlota Mesa Dom\u00ednguez",
+        "email": "carlota17@unimet.edu.ve",
+        "nombre_usuario": "Guadalupe5",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "b5dfdf2c-d825-47d1-b5bc-c0953b4fc535",
+        "nombre": "Magdalena Peralta Alba",
+        "email": "magdalena.peraltaalba17@unimet.edu.ve",
+        "nombre_usuario": "Manuela34",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "0d64d624-9391-48d1-b304-87c7e5fcba07",
+        "nombre": "Mar\u00eda Teresa ",
+        "email": "mariateresa.delacruzcantu@unimet.edu.ve",
+        "nombre_usuario": "Irene74",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "a3e8fe48-52e4-4ff1-b791-640a86cc61c6",
+        "nombre": "Adriana ",
+        "email": "adriana.camarillocampos58@unimet.edu.ve",
+        "nombre_usuario": "Esteban17",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "934d530e-10e1-4616-add5-555b556879d3",
+        "nombre": "\u00c1ngela ",
+        "email": "angela_porrasrosas@unimet.edu.ve",
+        "nombre_usuario": "Guadalupe.CarbajalValenzuela",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "6ec20eee-6b2a-45ae-8a6c-ea3c224307ca",
+        "nombre": "Tom\u00e1s Sol\u00eds Colunga",
+        "email": "tomas0@unimet.edu.ve",
+        "nombre_usuario": "JoseEmilio.SotoGuillen",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "97cba1b0-5d1f-4daa-bb81-0b536fcfab3c",
+        "nombre": "Ram\u00f3n ",
+        "email": "ramon17@unimet.edu.ve",
+        "nombre_usuario": "Pablo.MunozSuarez16",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "2017867f-e49c-4bc6-a32c-f8e87aa96afb",
+        "nombre": "Blanca Rivero Fajardo",
+        "email": "blanca_riverofajardo2@unimet.edu.ve",
+        "nombre_usuario": "Jacobo.DelvalleVillanueva15",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "c1143b59-f6ad-4e21-9981-86e8e54cb786",
+        "nombre": "Francisca ",
+        "email": "francisca.teranesquibel28@unimet.edu.ve",
+        "nombre_usuario": "David20",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "97c59402-2914-4e7a-aece-f37a3e7332ca",
+        "nombre": "Salvador Reyes Gamboa",
+        "email": "salvador_reyesgamboa@unimet.edu.ve",
+        "nombre_usuario": "Cecilia.MascarenasMontenegro",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "230dbadd-31b1-4fe3-afd7-aba201853969",
+        "nombre": "Sergio ",
+        "email": "sergio_oroscocastellanos@unimet.edu.ve",
+        "nombre_usuario": "Susana74",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "1438f9db-0704-4ebb-85ab-d42e80f07054",
+        "nombre": "\u00d3scar Col\u00f3n Villalobos",
+        "email": "oscar2@unimet.edu.ve",
+        "nombre_usuario": "Lourdes_LucioGarica70",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "f367f86a-3a15-4868-9612-c30e47d0d59d",
+        "nombre": "Homero ",
+        "email": "homero16@unimet.edu.ve",
+        "nombre_usuario": "Benito_CorralesCasas",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "6f31df24-2619-4757-abd5-6d910429d303",
+        "nombre": "Armando ",
+        "email": "armando_acostapulido@unimet.edu.ve",
+        "nombre_usuario": "Teodoro0",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "25848e8d-086d-4df3-a030-7a7d13d0d60b",
+        "nombre": "Vicente Orellana Melgar",
+        "email": "vicente.orellanamelgar70@unimet.edu.ve",
+        "nombre_usuario": "Jose_BrionesMejia88",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "9373772c-862e-467e-abd9-0c7627245b48",
+        "nombre": "Estela ",
+        "email": "estela.segoviaharo66@unimet.edu.ve",
+        "nombre_usuario": "Catalina.PenaLoya",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "48d6c252-2cd8-4e3d-afdb-72b2895f0bbe",
+        "nombre": "Teodoro ",
+        "email": "teodoro_uriasbarragan@unimet.edu.ve",
+        "nombre_usuario": "Rodrigo.ZarateGalindo12",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "0c721a6b-ab1c-488a-80cc-d50363291453",
+        "nombre": "Silvia Pedroza Concepci\u00f3n",
+        "email": "silvia.pedrozaconcepcion32@unimet.edu.ve",
+        "nombre_usuario": "Juan39",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "317698ff-3edf-4fa6-8875-aab7c8864be8",
+        "nombre": "Caridad ",
+        "email": "caridad.cejarosales50@unimet.edu.ve",
+        "nombre_usuario": "Enrique28",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "224cd67f-e70d-4bc5-855e-a6432e4eb2f6",
+        "nombre": "Ariadna ",
+        "email": "ariadna_bernalperales@unimet.edu.ve",
+        "nombre_usuario": "Salvador.DavilaLedesma65",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "da018924-2464-44a6-88e3-1fdffd620f89",
+        "nombre": "Alejandro ",
+        "email": "alejandro.sanabriaramos32@unimet.edu.ve",
+        "nombre_usuario": "Lorena11",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "545ff553-a193-434e-8b23-cd3179353554",
+        "nombre": "Magdalena ",
+        "email": "magdalena_chavezoquendo49@unimet.edu.ve",
+        "nombre_usuario": "Ramona25",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "eba20cbe-ff61-4e4f-a718-ee229a3f847f",
+        "nombre": "Eduardo Ojeda Matos",
+        "email": "eduardo.ojedamatos90@unimet.edu.ve",
+        "nombre_usuario": "Monica22",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "cd583dee-bfce-448d-aa2a-68e0ef447532",
+        "nombre": "Miguel \u00c1ngel Preciado Molina",
+        "email": "miguelangel43@unimet.edu.ve",
+        "nombre_usuario": "Debora.VillaValenzuela30",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "699c0453-ecbe-4885-9564-9850605460d0",
+        "nombre": "Gerardo ",
+        "email": "gerardo.parramaldonado12@unimet.edu.ve",
+        "nombre_usuario": "Lorena_OlivaresNajera",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "01d79526-a40c-4817-99f0-8c2cd74d185f",
+        "nombre": "Mar\u00eda Eugenia Gracia Solorzano",
+        "email": "mariaeugenia.graciasolorzano5@unimet.edu.ve",
+        "nombre_usuario": "Jose90",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "f3875da5-de2b-4f4a-aa03-03e830dffcb5",
+        "nombre": "Mario Amador Alfaro",
+        "email": "mario3@unimet.edu.ve",
+        "nombre_usuario": "Lola78",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "10da8c11-9256-4ddf-af03-094bacdbff15",
+        "nombre": "Julia ",
+        "email": "julia.leivaochoa65@unimet.edu.ve",
+        "nombre_usuario": "Cesar26",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "609b392e-4931-41f3-a8ff-806243628682",
+        "nombre": "Adriana G\u00f3mez Sosa",
+        "email": "adriana56@unimet.edu.ve",
+        "nombre_usuario": "Ignacio.NinoVanegas22",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "b560ca32-9229-4f7a-b900-805a31e27503",
+        "nombre": "Claudio Marrero Puga",
+        "email": "claudio.marreropuga@unimet.edu.ve",
+        "nombre_usuario": "MariadelCarmen_CavazosAleman",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "66bf535d-3117-4042-90a5-9935f7aa609b",
+        "nombre": "Magdalena Pantoja Adorno",
+        "email": "magdalena.pantojaadorno@unimet.edu.ve",
+        "nombre_usuario": "Caridad.TafoyaBallesteros",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "5238cada-5e81-49fc-8990-dedb70cda316",
+        "nombre": "Mar\u00eda Eugenia ",
+        "email": "mariaeugenia_concepcionperalta@unimet.edu.ve",
+        "nombre_usuario": "Patricia_AliceaChavarria84",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "1e44eb4b-fc25-43e9-83ee-ccf2e41a33d3",
+        "nombre": "Manuel ",
+        "email": "manuel_guerrapena96@unimet.edu.ve",
+        "nombre_usuario": "Estela.PereaGriego",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "62d4ffa4-f8b5-4583-952e-8fa0180c25fd",
+        "nombre": "Cristina ",
+        "email": "cristina_gamboadiaz54@unimet.edu.ve",
+        "nombre_usuario": "German42",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "a0f83bd3-cbac-45da-9c59-6a223a71c74c",
+        "nombre": "Homero L\u00f3pez Pati\u00f1o",
+        "email": "homero_lopezpatino14@unimet.edu.ve",
+        "nombre_usuario": "Sergio_VerdugoEspinosadelosMonteros43",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "9b5404a7-9129-4aff-ab88-542fb3453025",
+        "nombre": "Felipe ",
+        "email": "felipe94@unimet.edu.ve",
+        "nombre_usuario": "Rocio45",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "5321d4d2-1437-4e65-8ecf-367911c9c5dd",
+        "nombre": "Mar\u00eda Eugenia ",
+        "email": "mariaeugenia.ybarrasantillan@unimet.edu.ve",
+        "nombre_usuario": "Benito24",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "d90d5301-9596-4a54-bb54-298313699df3",
+        "nombre": "Alicia ",
+        "email": "alicia70@unimet.edu.ve",
+        "nombre_usuario": "MariaElena_MojicaVillasenor",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "9df35d87-a337-4c76-931d-809b8fe162c5",
+        "nombre": "Diego Manzanares Malave",
+        "email": "diego58@unimet.edu.ve",
+        "nombre_usuario": "Victor.CuellarLeon",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "9432121d-7c1a-4a29-8de8-b2ecb6e7b555",
+        "nombre": "Guadalupe Arroyo Loera",
+        "email": "guadalupe_arroyoloera0@unimet.edu.ve",
+        "nombre_usuario": "Mayte_BarelaCorral",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "501524bc-79a8-43f9-98c3-ae2f0cec2d93",
+        "nombre": "Patricio ",
+        "email": "patricio_lopezvaldivia18@unimet.edu.ve",
+        "nombre_usuario": "Lorena.HurtadoArana14",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "a4cfdd90-81b5-404c-9a83-9511d3949669",
+        "nombre": "Mar\u00eda Cristina Melgar Aguilar",
+        "email": "mariacristina27@unimet.edu.ve",
+        "nombre_usuario": "Dorotea58",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "ade815e1-3e19-42e8-a9e6-3c12fd0dbec6",
+        "nombre": "Raquel Ba\u00f1uelos Moreno",
+        "email": "raquel_banuelosmoreno@unimet.edu.ve",
+        "nombre_usuario": "Lola.LebronLozano57",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "05685262-ef75-4e3e-981d-680b04083862",
+        "nombre": "Emilia Blanco Candelaria",
+        "email": "emilia.blancocandelaria@unimet.edu.ve",
+        "nombre_usuario": "Arturo.RivasGarza77",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "8880acdb-20da-4588-990f-a327d73d633d",
+        "nombre": "Alfredo Gil Guerra",
+        "email": "alfredo_gilguerra29@unimet.edu.ve",
+        "nombre_usuario": "Lucia80",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "0fdccf74-df53-41cf-8af5-48070dbda7ff",
+        "nombre": "Esperanza Hern\u00e1ndez Garay",
+        "email": "esperanza_hernandezgaray@unimet.edu.ve",
+        "nombre_usuario": "Ernesto.AlmonteAbreu44",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "98b6512a-2f02-494a-9e17-59cc002cba77",
+        "nombre": "Federico ",
+        "email": "federico38@unimet.edu.ve",
+        "nombre_usuario": "Elena64",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "e54f4585-5302-41d7-96b3-d483abbaefc3",
+        "nombre": "Gustavo ",
+        "email": "gustavo.camachocovarrubias@unimet.edu.ve",
+        "nombre_usuario": "Cesar.CornejoLovato8",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "a2e5f5ad-44e4-4925-894a-9b08f3dff115",
+        "nombre": "Benjam\u00edn ",
+        "email": "benjamin_santanaayala38@unimet.edu.ve",
+        "nombre_usuario": "Mayte9",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "91c38d6c-4250-4240-97f7-069783ed4c23",
+        "nombre": "Sof\u00eda Grijalva S\u00e1enz",
+        "email": "sofia.grijalvasaenz23@unimet.edu.ve",
+        "nombre_usuario": "Carolina99",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "bc58a11e-6e14-49ad-8a4e-69817e25e23b",
+        "nombre": "Javier Bustos Pizarro",
+        "email": "javier.bustospizarro@unimet.edu.ve",
+        "nombre_usuario": "Sonia.OliveraSalcedo95",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "80ffe630-066f-4b7f-a8a8-67f1fb9d16e5",
+        "nombre": "Berta ",
+        "email": "berta.castanedarosales@unimet.edu.ve",
+        "nombre_usuario": "Alfonso.OroscoTamayo",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "fba397b5-dc00-41c1-93a1-387f7458901f",
+        "nombre": "Estela ",
+        "email": "estela.villalobosroldan@unimet.edu.ve",
+        "nombre_usuario": "Adriana97",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "fa0e35c5-b620-404a-9e0e-10b3ad877681",
+        "nombre": "Sergio Mascare\u00f1as Bustos",
+        "email": "sergio_mascarenasbustos@unimet.edu.ve",
+        "nombre_usuario": "Elena_PerezOlvera",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "bd329865-1db8-4bfc-95b3-9fc7ab58a654",
+        "nombre": "Javier Nieto Aponte",
+        "email": "javier.nietoaponte@unimet.edu.ve",
+        "nombre_usuario": "Hugo82",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "b6a82cdf-b17d-4f4a-ada2-c9cf0ecabb0f",
+        "nombre": "Mar\u00eda Cristina Aguilar G\u00e1mez",
+        "email": "mariacristina.aguilargamez17@unimet.edu.ve",
+        "nombre_usuario": "Ariadna.CarreraRincon",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "b66500fc-7c15-4a0b-be05-f72c1dfad562",
+        "nombre": "Vicente ",
+        "email": "vicente37@unimet.edu.ve",
+        "nombre_usuario": "Marta91",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "567bddb1-a968-4b08-9843-185867e59415",
+        "nombre": "Joaqu\u00edn ",
+        "email": "joaquin.armijoceballos38@unimet.edu.ve",
+        "nombre_usuario": "MariaElena45",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "def87bb1-48cc-4f80-afb2-7cd5bc7156cd",
+        "nombre": "Marcos ",
+        "email": "marcos.rodartegaitan@unimet.edu.ve",
+        "nombre_usuario": "AnaLuisa85",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "5aceb7bd-56e9-4751-ace9-0267db3d347a",
+        "nombre": "Gustavo Carmona Moreno",
+        "email": "gustavo_carmonamoreno79@unimet.edu.ve",
+        "nombre_usuario": "Benito77",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "5735e975-7681-4aa1-82e6-e7fb00a1a59b",
+        "nombre": "\u00d3scar ",
+        "email": "oscar39@unimet.edu.ve",
+        "nombre_usuario": "Hernan_GarciaParedes",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "9fa2d2fc-7def-4bae-8432-20927ff72a24",
+        "nombre": "Elvira Zaragoza Ceja",
+        "email": "elvira.zaragozaceja@unimet.edu.ve",
+        "nombre_usuario": "Ramona.RangelCardona98",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "68700fe3-c29f-4677-a9dd-95acce08aea9",
+        "nombre": "Silvia Alan\u00edz Mu\u00f1iz",
+        "email": "silvia77@unimet.edu.ve",
+        "nombre_usuario": "Yolanda.CortesMorales46",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "69fed1fd-57ab-4e09-b301-552413a7a11b",
+        "nombre": "Rafael ",
+        "email": "rafael.valenzuelaharo@unimet.edu.ve",
+        "nombre_usuario": "Jacobo.AranaCandelaria",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "28070ebe-74cc-4488-8491-8fb928ec2f45",
+        "nombre": "Barbara ",
+        "email": "barbara.peraltaalmaraz@unimet.edu.ve",
+        "nombre_usuario": "Ariadna.GalindoValdes",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "24617980-5320-44c4-824d-b466fe386b0e",
+        "nombre": "Anita ",
+        "email": "anita_pelayoquiroz17@unimet.edu.ve",
+        "nombre_usuario": "JorgeLuis.BritoDuarte",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "f78b360f-8a0f-4aad-abc4-16a0cf9dc34c",
+        "nombre": "Nicol\u00e1s Mat\u00edas Tamez",
+        "email": "nicolas.matiastamez@unimet.edu.ve",
+        "nombre_usuario": "MariaSoledad37",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "5229912e-8951-4456-b93f-c02977080f8c",
+        "nombre": "Conchita Matos Betancourt",
+        "email": "conchita.matosbetancourt86@unimet.edu.ve",
+        "nombre_usuario": "Laura21",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "5aa9130b-a1eb-42c2-84ca-1039d71a3fea",
+        "nombre": "Mar\u00eda del Carmen Delr\u00edo M\u00e1rquez",
+        "email": "mariadelcarmen26@unimet.edu.ve",
+        "nombre_usuario": "Rodrigo_GodinezJasso50",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "7f3d8c88-b9ac-44d6-83cc-145f3c0cc5c6",
+        "nombre": "Carolina ",
+        "email": "carolina_abregohidalgo@unimet.edu.ve",
+        "nombre_usuario": "Manuel58",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "5cf40b44-1036-4b63-a29f-fee7d4930258",
+        "nombre": "Arturo ",
+        "email": "arturo92@unimet.edu.ve",
+        "nombre_usuario": "Clara_PerezTafoya20",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "1f4e3f17-ab74-40e7-9038-70c9eb725b2a",
+        "nombre": "Marcela ",
+        "email": "marcela.soteloherrera@unimet.edu.ve",
+        "nombre_usuario": "Caridad_DeleonParedes",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "11d5dba3-7c1c-4823-ac7a-e34c0b5cc7aa",
+        "nombre": "Marcos Guardado Oliv\u00e1rez",
+        "email": "marcos_guardadoolivarez46@unimet.edu.ve",
+        "nombre_usuario": "Joaquin_MedinaPerales",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "9b0706fa-014d-4af1-8344-486706217659",
+        "nombre": "Cristina Arag\u00f3n Escamilla",
+        "email": "cristina79@unimet.edu.ve",
+        "nombre_usuario": "Josefina_GalvezManzanares",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "e51c9a56-dc68-46d1-bfe4-651e05afd70a",
+        "nombre": "Marta ",
+        "email": "marta.cavazosbecerra@unimet.edu.ve",
+        "nombre_usuario": "Manuel49",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "26994830-e49a-47dc-9011-bae24a5c0926",
+        "nombre": "Irene ",
+        "email": "irene51@unimet.edu.ve",
+        "nombre_usuario": "Manuela_SalinasFigueroa",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "c1f6708a-f855-4d2f-a7ad-c5afc049136c",
+        "nombre": "Manuel ",
+        "email": "manuel_apodacazelaya@unimet.edu.ve",
+        "nombre_usuario": "Cristina_MontezLimon77",
+        "tipo": "musician"
+    },
+    {
+        "identificador": "4a6ceccb-c8aa-4dc7-8497-3f9fee6870ab",
+        "nombre": "Mar\u00eda del Carmen ",
+        "email": "mariadelcarmen_saavedravergara12@unimet.edu.ve",
+        "nombre_usuario": "Manuela_EspinosaChavez51",
+        "tipo": "musician",
+        "likes": [
+            "<function uuid4 at 0x0000022E032CEF20>",
+            "<function uuid4 at 0x000001BA3BD5EF20>"
+        ]
+    },
+    {
+        "identificador": "<function uuid4 at 0x000001BA3BD5EF20>",
+        "nombre": "efefe",
+        "email": "fefef",
+        "nombre_usuario": "fef",
+        "tipo": "listener"
+    },
+    {
+        "identificador": "<function uuid4 at 0x0000022E032CEF20>",
+        "nombre": "eef",
+        "email": "cxcx",
+        "nombre_usuario": "cxcx",
+        "tipo": "musician",
+        "likes": [
+            "afa1078a-ea67-4a78-bdae-2b1adae34e61"
+        ]
+    }
+]
